@@ -1,0 +1,20 @@
+.heading{
+    background-color: #e0ffff;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #afeeee;
+}
+
+.link{
+    display: block;
+    margin-top: 50px;
+    text-align: center;
+    background-color: #87cefa;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.link:hover{
+    color: white;
+}
